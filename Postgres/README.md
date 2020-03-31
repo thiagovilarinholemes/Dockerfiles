@@ -1,5 +1,6 @@
 # Dockerfiles
-Repositório de docker-compose
+Repositório do Postgres e PgAdmin4
+
 <hr>
 
 Neste repositório contém o arquivo ".yml" do docker-compose.yml do Postgres e PgAdmin4:
@@ -8,7 +9,7 @@ Neste repositório contém o arquivo ".yml" do docker-compose.yml do Postgres e 
 
 # Postgres
 
-1 Nesta configuração contém o conteiner do postgres que roda na porta 5432 e do pgadmin4 que roda na porta 5050.
+1. Nesta configuração contém o conteiner do postgres que roda na porta 5432 e do pgadmin4 que roda na porta 5050.
 
 Primeiramente devemos baixar as imagens do postgres e do pgadmin4,
 no terminal digite dentro da pasta que contém o arquivo docker-compose.yml:
@@ -25,7 +26,7 @@ Quando for inicializar pela segunda vez e outras vezes digite no terminal dentro
 
 > docker-compose start
 
-** Para parar o docker digite no terminal:
+Para parar o docker digite no terminal:
 
 > docker-compose stop
 
