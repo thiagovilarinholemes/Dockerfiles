@@ -6,8 +6,8 @@ Neste repositório contém os arquivos docker-compose.yml para subir os respecti
 
 # Laradock
 
-1 nginx - as configurações são inseridas na pasta nginx/sites/file.conf, o arquivo file.conf pode variar o nome acordo como foi criado mas sempre deve ter a extensão ".conf" no final;
-2 phpmyadmin - roda na porta 80;
+1. nginx - as configurações são inseridas na pasta nginx/sites/file.conf, o arquivo file.conf pode variar o nome de acordo como foi criado mas sempre deve ter a extensão ".conf" no final;
+2. phpmyadmin - roda na porta 80;
 
 <hr>
 
