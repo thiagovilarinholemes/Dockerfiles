@@ -1,5 +1,6 @@
 # Dockerfiles
-Repositório de docker-compose.yml
+Repositório do Mysql - Workbench
+
 <hr>
 
 Neste repositório contém o arquivo ".yml" docker-compose.yml do Mysql - Workbench.
@@ -8,5 +9,5 @@ Neste repositório contém o arquivo ".yml" docker-compose.yml do Mysql - Workbe
 
 # Mysql - Workbench
 
-1 Workbench - para acessar a parte gráfica entre dentro do container com o seguinte comando no terminal:
+1. Workbench - para acessar a parte gráfica entre dentro do container com o seguinte comando no terminal:
 > docker-composer exec mysql-workbench
